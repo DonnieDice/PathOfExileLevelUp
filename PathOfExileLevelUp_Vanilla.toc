@@ -1,11 +1,11 @@
-## Interface: 30403
+## Interface: 11500
 ## Version: 1.0.9
 ## Title:|cffb37c44Path of Exile|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/PoELU
+## X-Website: https://github.com/donniedice/PathOfExileLevelUp
 ## X-Curse-Project-ID: 594588
 ## X-Wago-ID: q96dxn6O
 ## X-WoWI-ID: 26262
