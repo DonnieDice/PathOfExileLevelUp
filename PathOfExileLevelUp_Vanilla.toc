@@ -1,8 +1,9 @@
 ## Interface: 11500
-## Version: 1.0.11
-## Title:|cffb37c44Path of Exile|r Level Up!
+## Version: 1.0.12
+## Title:  |cffb37c44Path of Exile|r Level Up|cffb37c44!|r
+## Notes:  Play a Path of Exile-inspired level-up sound!  |n|r  |cffb37c44By DonnieDice|r
+## IconTexture: Interface\AddOns\PathOfExileLevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/PathOfExileLevelUp
