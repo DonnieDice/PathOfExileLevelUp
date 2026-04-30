@@ -9,11 +9,10 @@ local RGX = assert(_G.RGXFramework, "POELU: RGX-Framework not loaded")
 
 POELU = POELU or {}
 
-local ADDON_VERSION = "2.0.0"
+local ADDON_VERSION = "2.0.1"
 local ADDON_NAME = "PathOfExileLevelUp"
-local ICON_PATH = "|Tinterface/addons/PathOfExileLevelUp/media/icon:16:16|t"
-local PREFIX = ICON_PATH .. " |cffb37c44POELU:|r"
-local TITLE = "[|cffb37c44P|r|cffffffffath of Exile|r |cffb37c44L|r|cffffffffevel|r |cffb37c44U|r|cffb37c44p|r|cffb37c44!|r]"
+local PREFIX = "|Tinterface/addons/PathOfExileLevelUp/media/icon:16:16|t - |cffffffff[|r|cffb37c44POELU|r|cffffffff]|r "
+local TITLE = "|Tinterface/addons/PathOfExileLevelUp/media/icon:18:18|t [|cffb37c44P|r|cffffffffath of Exile|r |cffb37c44L|r|cffffffffevel|r |cffb37c44U|r|cffb37c44p|r|cffb37c44!|r]"
 
 POELU.version = ADDON_VERSION
 POELU.addonName = ADDON_NAME
